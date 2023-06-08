@@ -13,6 +13,11 @@
 <table width="100%">
   <tr width="100%">
     <td width="10%" align="center">
+      <a href="https://github.com/AvalinAir">
+        <img src="https://avatars.githubusercontent.com/u/135971228?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
       <a href="https://github.com/kazikhan86599">
         <img src="https://avatars.githubusercontent.com/u/134951021?v=4" />
       </a>
@@ -57,12 +62,12 @@
         <img src="https://avatars.githubusercontent.com/u/129487723?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/rileyca">
         <img src="https://avatars.githubusercontent.com/u/129225230?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/kamelorac">
         <img src="https://avatars.githubusercontent.com/u/129031543?v=4" />
@@ -106,11 +111,6 @@
     <td width="10%" align="center">
       <a href="https://github.com/comet19950902">
         <img src="https://avatars.githubusercontent.com/u/125123604?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
-      <a href="https://github.com/super1002">
-        <img src="https://avatars.githubusercontent.com/u/125123579?v=4" />
       </a>
     </td>
   </tr><tr width="100%">
@@ -579,7 +579,7 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/riuyong-dev">
+      <a href="https://github.com/RiuYong">
         <img src="https://avatars.githubusercontent.com/u/109254224?v=4" />
       </a>
     </td>
