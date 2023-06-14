@@ -33,11 +33,6 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/solarspecter315">
-        <img src="https://avatars.githubusercontent.com/u/134133099?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
       <a href="https://github.com/yasamannn79">
         <img src="https://avatars.githubusercontent.com/u/133115634?v=4" />
       </a>
@@ -45,6 +40,11 @@
     <td width="10%" align="center">
       <a href="https://github.com/robinsoncrusio">
         <img src="https://avatars.githubusercontent.com/u/132560166?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
+      <a href="https://github.com/BestFriend-Sweet">
+        <img src="https://avatars.githubusercontent.com/u/132333928?v=4" />
       </a>
     </td>
     <td width="10%" align="center">
