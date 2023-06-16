@@ -13,11 +13,6 @@
 <table width="100%">
   <tr width="100%">
     <td width="10%" align="center">
-      <a href="https://github.com/ilyamedoed">
-        <img src="https://avatars.githubusercontent.com/u/136754043?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
       <a href="https://github.com/jtsEvgeny">
         <img src="https://avatars.githubusercontent.com/u/136356332?v=4" />
       </a>
@@ -40,6 +35,11 @@
     <td width="10%" align="center">
       <a href="https://github.com/bluesky7771">
         <img src="https://avatars.githubusercontent.com/u/134230967?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
+      <a href="https://github.com/T8I8L0S1">
+        <img src="https://avatars.githubusercontent.com/u/133164030?v=4" />
       </a>
     </td>
     <td width="10%" align="center">
