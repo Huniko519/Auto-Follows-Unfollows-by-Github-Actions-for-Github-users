@@ -1,18 +1,14 @@
-## View User info and Followers
-Auto update by GitHub Action.
-
 ## Huniko519
-
-<img src="https://avatars.githubusercontent.com/u/71299022?v=4" width="150" />
-
-| Name | Bio | Blog | Location | Company |
-| -- | -- | -- | -- | -- |
-| Mr. Huniko | Huniko is a software engineer with 7+ years of experience developing websites and web apps / mobile apps for eCommerce, education, and business services. | - | - | - |
-
-## Followers <kbd>829</kbd>
-
-<table width="100%">
-  <tr width="100%">
+        <img src="https://avatars.githubusercontent.com/u/71299022?v=4" width="150" />
+        
+        | Name | Bio | Blog | Location | Company |
+        | -- | -- | -- | -- | -- |
+        | Mr. Huniko | Huniko is a software engineer with 7+ years of experience developing websites and web apps / mobile apps for eCommerce, education, and business services. | - | - | - |
+        
+        ## Followers <kbd>829</kbd>
+        
+        <table width="100%">
+          <tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/salamonavannahaaw">
         <img src="https://avatars.githubusercontent.com/u/136724081?v=4" />
@@ -4243,7 +4239,8 @@ Auto update by GitHub Action.
     <td width="10%" align="center">
     </td>
   </tr>
-</table>
-    
-## LICENSE
-Copyright (c) 2023-present [Huniko519](https://github.com/Huniko519)
+        </table>
+            
+        ## LICENSE
+        Copyright (c) 2023-present [Huniko519](https://github.com/Huniko519)
+      
