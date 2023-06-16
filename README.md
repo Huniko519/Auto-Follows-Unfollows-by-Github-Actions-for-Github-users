@@ -1,5 +1,6 @@
 ## View User info and Followers
-    Auto update by GitHub Action.
+Auto update by GitHub Action.
+
 ## Huniko519
 
 <img src="https://avatars.githubusercontent.com/u/71299022?v=4" width="150" />
