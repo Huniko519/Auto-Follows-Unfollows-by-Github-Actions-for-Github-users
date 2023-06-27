@@ -15,11 +15,6 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/VolodymyrChoshko">
-        <img src="https://avatars.githubusercontent.com/u/137330950?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
       <a href="https://github.com/vanhuan3006">
         <img src="https://avatars.githubusercontent.com/u/136362248?v=4" />
       </a>
@@ -59,12 +54,12 @@
         <img src="https://avatars.githubusercontent.com/u/133115634?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/robinsoncrusio">
         <img src="https://avatars.githubusercontent.com/u/132560166?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/DevHunter128">
         <img src="https://avatars.githubusercontent.com/u/132545371?v=4" />
@@ -110,12 +105,12 @@
         <img src="https://avatars.githubusercontent.com/u/131336201?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/turtledna">
         <img src="https://avatars.githubusercontent.com/u/129516122?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/pengads001">
         <img src="https://avatars.githubusercontent.com/u/129487723?v=4" />
@@ -154,6 +149,11 @@
     <td width="10%" align="center">
       <a href="https://github.com/wonderGuy920">
         <img src="https://avatars.githubusercontent.com/u/126171790?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
+      <a href="https://github.com/DigitalGirlMIA">
+        <img src="https://avatars.githubusercontent.com/u/126016956?v=4" />
       </a>
     </td>
     <td width="10%" align="center">
@@ -428,7 +428,7 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/maksym0102">
+      <a href="https://github.com/ishubin0309">
         <img src="https://avatars.githubusercontent.com/u/116433024?v=4" />
       </a>
     </td>
