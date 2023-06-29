@@ -10,11 +10,6 @@
 <table width="100%">
   <tr width="100%">
     <td width="10%" align="center">
-      <a href="https://github.com/recursedddd">
-        <img src="https://avatars.githubusercontent.com/u/137995797?v=4" />
-      </a>
-    </td>
-    <td width="10%" align="center">
       <a href="https://github.com/radithvova">
         <img src="https://avatars.githubusercontent.com/u/137914106?v=4" />
       </a>
@@ -59,12 +54,12 @@
         <img src="https://avatars.githubusercontent.com/u/134230967?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/T8I8L0S1">
         <img src="https://avatars.githubusercontent.com/u/133164030?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/yasamannn79">
         <img src="https://avatars.githubusercontent.com/u/133115634?v=4" />
@@ -103,6 +98,11 @@
     <td width="10%" align="center">
       <a href="https://github.com/doggino">
         <img src="https://avatars.githubusercontent.com/u/132238722?v=4" />
+      </a>
+    </td>
+    <td width="10%" align="center">
+      <a href="https://github.com/AlexHong1101">
+        <img src="https://avatars.githubusercontent.com/u/132189735?v=4" />
       </a>
     </td>
     <td width="10%" align="center">
